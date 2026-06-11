@@ -1,0 +1,15 @@
+/*
+ * 1.cpp
+ *
+ *  Created on: 11-Jun-2026
+ *      Author: aryan
+ */
+#include<iostream>
+using namespace std;
+int main(){
+	cout<<"ayush gandu";
+	return 0;
+}
+
+
+

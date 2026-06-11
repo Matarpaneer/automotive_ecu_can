@@ -10,3 +10,6 @@ Invoking: Cross G++ Linker
 g++  -o "ecu"  ./1.o   
 Finished building target: ecu
  
+
+23:09:01 Build Finished. 0 errors, 0 warnings. (took 406ms)
+
