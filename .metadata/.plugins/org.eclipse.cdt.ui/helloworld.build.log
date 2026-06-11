@@ -1,6 +1,15 @@
-22:29:53 **** Incremental Build of configuration Debug for project helloworld ****
+22:58:40 **** Incremental Build of configuration Debug for project helloworld ****
 make all 
-make: Nothing to be done for `all'.
+Building file: ../src/helloworld.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.cpp"
+Finished building: ../src/helloworld.cpp
+ 
+Building target: helloworld
+Invoking: Cross G++ Linker
+g++  -o "helloworld"  ./src/helloworld.o   
+Finished building target: helloworld
+ 
 
-22:29:53 Build Finished. 0 errors, 0 warnings. (took 75ms)
+22:58:41 Build Finished. 0 errors, 0 warnings. (took 689ms)
 
